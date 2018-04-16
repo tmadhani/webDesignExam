@@ -1,0 +1,9 @@
+@media only screen and (min-width: 250px){
+img {
+	overflow: hidden;
+}
+img {
+	width: 50%;
+	display: inline-block;
+	align-content: center;
+}
